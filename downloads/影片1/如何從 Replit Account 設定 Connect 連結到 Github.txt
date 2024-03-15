@@ -1,0 +1,1 @@
+點選右上角Replit帳號，點選account，點選Resource usage，找到Github，點Connect，出現Disconnect就是授權成功。主要功能是讓github和replit是信任狀態，把倉儲輸入到replit改版就可以推回github。
