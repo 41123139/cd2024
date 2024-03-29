@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T11:00:00+08:00</updated><entry><title>W6</title><link href="./20240329.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-03-29T06:33:03+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-29:./20240329.html</id><summary type="html">&lt;p&gt;2024/03/29第六週網誌內容.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T11:00:00+08:00</updated><entry><title>W6</title><link href="./20240329.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-03-29T07:26:31+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-29:./20240329.html</id><summary type="html">&lt;p&gt;2024/03/29第六週網誌內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/29第六週網誌內容.&lt;/p&gt;
 
 
 &lt;h1&gt;組別&lt;/h1&gt;
-&lt;p&gt;更改網誌名稱以免衝突&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./20240322.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-29T06:31:16+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-22:./20240322.html</id><summary type="html">&lt;p&gt;2024/03/22第五週網誌內容.&lt;/p&gt;
+&lt;p&gt;更改網誌名稱以免衝突
+推子模組&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./20240322.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-29T06:31:16+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-22:./20240322.html</id><summary type="html">&lt;p&gt;2024/03/22第五週網誌內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22第五週網誌內容.&lt;/p&gt;
 
 
